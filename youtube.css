@@ -1,0 +1,176 @@
+body {
+    background:#F9F9F9;
+    margin:0;
+}
+.header {
+    
+    width:100%;
+    height:60px;
+    float:left;
+    font-family: Roboto, Arial, sans-serif;
+}
+.icon-image {
+    width:35px;
+    height:40px;
+    cursor:pointer;
+    float:left;
+    margin-left:18px;
+    margin-top:8px;
+}
+.youtube-image {
+    width:40px;
+    height:35px;
+    float:left;
+    margin-left:20px;
+    margin-top:8px;
+    cursor:pointer;
+}
+.Youtube-writings {   
+    font-size:19px;
+    color:#212121;
+    float:left;
+    cursor:pointer;
+}
+.in-text {
+    font-size:12px;
+    color:#606060;
+}
+.search-content {
+    float:left;
+    padding-top:12px;
+    width:47%;     
+}
+.logo {
+    float:left;
+    width:30%;
+}
+.txt-searchbox {
+    width:520px;
+    height:35px;
+    border-radius:2px;
+    border:1px solid #F0F0F0;
+    font-size:17px;
+    font-family: Roboto,Noto,sans-serif;
+    padding-left:7px;
+    float:left;
+}
+.search-btn {
+    width:70px;
+    height:37px;
+    background:#F0F0F0;
+    margin-left:-5px;
+    border:1px solid #F0F0F0;
+    float:left;
+    cursor:pointer;
+}
+.voice-icon {
+    float:left;
+    width:15px;
+    height:30px;
+    margin-top:6px;
+    margin-left:10px;
+    cursor:pointer;
+}
+.upload-menu {
+    float:right;
+    padding-top:10px;
+}
+.create-image {
+    width:35px;
+    height:40px;
+    border:none;
+    cursor:pointer;
+    margin-right:22px;
+}
+.main-body {
+    width:100%;
+    height:800px;
+    float:left;
+    
+}
+.menu {
+    width:230px;
+    height:670px;
+    float:left;
+    overflow-y:auto;
+    margin-top:10px;
+}
+.menutable {
+    width:200px;
+}
+.menu-icon {
+    width:30px;
+    height:30px;
+    border:none;    
+    padding-left:20px;
+    padding-right:18px;
+    padding-top:6px;
+}
+.menu-name {
+    color:black;
+    font-family: "Roboto","Arial",sans-serif;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    font-weight: 500;
+}
+hr {
+    color:#E5E5E5;
+    margin-right:10px;
+}
+.subscription {
+    font-size:16px;
+    color:#909090;
+    font-family: Roboto, Arial, sans-serif;
+    margin-left:15px;
+}
+.menu-table tr:hover {
+    cursor:pointer;
+    background:#E5E5E5;
+}
+.content {
+    float:left;
+    width:1306px;
+}
+.options {
+    float:left;
+    width:100%;
+    height:55px;
+    border-top:1px solid #E5E5E5;
+    border-bottom:1px solid #E5E5E5;
+    
+}
+.option-btn {
+    margin-top:10px;
+    margin-left:10px;
+    padding:7px;
+    border-radius:15px;
+    background:#E5E5E5;
+    float:left;
+}
+.selected {
+    background-color:#030303;
+    color:white;
+}
+.video {
+    width:100%;
+    height:700px;
+    float:left;
+    
+}
+.video-frame {
+    width:300px;
+    height:168px;
+    margin:10px 10px 0px 10px;
+}
+.videos-single {
+    margin:100px;
+    cursor:pointer;
+    width:300px;
+    height:100px;
+    margin:10px 10px 0px 10px;
+    overflow:none;
+    padding-left:5px;
+}
+.video-block {
+    float:left;
+}
